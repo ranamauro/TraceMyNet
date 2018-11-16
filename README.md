@@ -7,8 +7,8 @@ TraceMyNet: a network tracing tool
 
 **Capture UI:**
 
-!["TraceMyNetScreenshot_Main.png"][1]
+![Capture UI](https://raw.githubusercontent.com/ranamauro/TraceMyNet/master/img/dd916d21-33cb-42c9-b026-dbb3396bce29.png)
 
 **Options UI:**
 
-!["TraceMyNetScreenshot_Options.png"][2]
+![Options UI](https://raw.githubusercontent.com/ranamauro/TraceMyNet/master/img/62404607-8d38-4dbf-b648-6b29c6c67188.png)
