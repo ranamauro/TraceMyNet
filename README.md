@@ -6,8 +6,8 @@ Here are a couple screenshots:
 
 **Capture UI:**
 
-![Capture UI](https://raw.githubusercontent.com/ranamauro/TraceMyNet/master/img/dd916d21-33cb-42c9-b026-dbb3396bce29.png)
+![Capture UI](https://raw.githubusercontent.com/ranamauro/TraceMyNet/master/img/capture.png)
 
 **Options UI:**
 
-![Options UI](https://raw.githubusercontent.com/ranamauro/TraceMyNet/master/img/62404607-8d38-4dbf-b648-6b29c6c67188.png)
+![Options UI](https://raw.githubusercontent.com/ranamauro/TraceMyNet/master/img/options.png)
